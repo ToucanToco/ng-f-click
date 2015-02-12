@@ -1,7 +1,7 @@
 {
   "name": "ng-f-click",
   "main": "ng-f-click.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/davinov/ng-f-click",
   "authors": [
     "David Nowinsky <david@nowinsky.net>"
