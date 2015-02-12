@@ -1,0 +1,24 @@
+{
+  "name": "ng-f-click",
+  "main": "ng-f-click.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/davinov/ng-f-click",
+  "authors": [
+    "David Nowinsky <david@nowinsky.net>"
+  ],
+  "description": "Fast response to click for Angular apps",
+  "keywords": [
+    "angular",
+    "fastclick",
+    "directive",
+    "performance"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
