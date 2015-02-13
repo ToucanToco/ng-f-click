@@ -14,9 +14,7 @@ Instead of refreshing everything after a `ng-click` (`$scope.$apply()`),
 (and perform a `$digest` on it, which is basically what `apply` does on the
 entire app).
 
-Example: (TODO: demo) when having a menu that changes a complex view, first
-updates the menu and repaints (to indicate the category is changing), then
-propagate the change across the main view.
+Example: http://codepen.io/davinov/pen/bNLgKb
 
 ## Setup
 Using [`bower`](http://bower.io):
